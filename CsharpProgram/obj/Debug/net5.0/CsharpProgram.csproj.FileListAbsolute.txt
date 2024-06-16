@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\CsharpProgram\bin\Debug\net5.0\CsharpProgram.exe
+C:\Users\admin\source\repos\CsharpProgram\bin\Debug\net5.0\CsharpProgram.deps.json
+C:\Users\admin\source\repos\CsharpProgram\bin\Debug\net5.0\CsharpProgram.runtimeconfig.json
+C:\Users\admin\source\repos\CsharpProgram\bin\Debug\net5.0\CsharpProgram.runtimeconfig.dev.json
+C:\Users\admin\source\repos\CsharpProgram\bin\Debug\net5.0\CsharpProgram.dll
+C:\Users\admin\source\repos\CsharpProgram\bin\Debug\net5.0\ref\CsharpProgram.dll
+C:\Users\admin\source\repos\CsharpProgram\bin\Debug\net5.0\CsharpProgram.pdb
+C:\Users\admin\source\repos\CsharpProgram\obj\Debug\net5.0\CsharpProgram.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CsharpProgram\obj\Debug\net5.0\CsharpProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CsharpProgram\obj\Debug\net5.0\CsharpProgram.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CsharpProgram\obj\Debug\net5.0\CsharpProgram.AssemblyInfo.cs
+C:\Users\admin\source\repos\CsharpProgram\obj\Debug\net5.0\CsharpProgram.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CsharpProgram\obj\Debug\net5.0\CsharpProgram.dll
+C:\Users\admin\source\repos\CsharpProgram\obj\Debug\net5.0\ref\CsharpProgram.dll
+C:\Users\admin\source\repos\CsharpProgram\obj\Debug\net5.0\CsharpProgram.pdb
+C:\Users\admin\source\repos\CsharpProgram\obj\Debug\net5.0\CsharpProgram.genruntimeconfig.cache
